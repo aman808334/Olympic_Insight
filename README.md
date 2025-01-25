@@ -8,7 +8,7 @@ Features -
 (3) **Visualizations**: Generate visual representations such as graphs and charts to better understand the data.
 (4) **Interactive Plots**: Utilize Plotly for interactive data visualizations to engage users.
 
-#Glance of the Project -
+# Glance of the Project -
 
 
 ![Screenshot (37)](https://github.com/user-attachments/assets/e0cf190a-63c5-4dd7-b8fa-dc9e6881ef70)
